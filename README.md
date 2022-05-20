@@ -3,4 +3,5 @@
 Olá! bem vindo ao meu livro de receitas:wave:
 
 * strogonoff
-* pave
+* pavê
+* bolo de cenoura
